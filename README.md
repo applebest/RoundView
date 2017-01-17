@@ -4,3 +4,7 @@
 # hello Roud View
 [Roud View 进度圆盘](http://code4app.com/forum.php?mod=viewthread&tid=11996&extra=)
 ![Roud View 进度圆盘](https://github.com/GetCodeApp/RoundView/blob/master/customRoundView/customRoundView/roundView.gif)
+```
+NSString *str = [[NSString alloc]init];
+```
+
